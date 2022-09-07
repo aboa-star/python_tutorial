@@ -1,0 +1,1 @@
+1. Write a simple pyuthon code to reverse a string.
